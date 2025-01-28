@@ -1,4 +1,5 @@
 # Phytonet - the internet of water
+![PhytoNet Cover](https://github.com/marialilokyee/phytonet/blob/main/Photos/sensing%20organ-smaller.png)
 
 We are a group of biodesigners, biochemist, plant biologist and makers building a regenerative internet powered by algae in our waterways.
 
