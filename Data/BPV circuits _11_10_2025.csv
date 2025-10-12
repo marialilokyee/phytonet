@@ -1,0 +1,12 @@
+Ceramics BPV,Voltage (mV),Current (uA)
+Saffya,566,0
+Nina,743,0.1
+Saffya+Nina (parallel),600,0.3
+Tammy,525,-0.1
+Anna,160,0.2
+Jon,548,0.2
+Digby,672,-0.5
+Nimi,890,0.2
+Adrian,707,-0.3
+Nimi+Adrian (Series),1657,0.3
+Nimi+Adrian (Parallel),807,0.4
