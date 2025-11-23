@@ -17,4 +17,4 @@ VDD >> 3.3V
 
 BPV / ADS1115
 anode (-) >> GND
-cathode (+) >> 0
+cathode (+) >> A0
