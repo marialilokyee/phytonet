@@ -1,6 +1,10 @@
 /*
+Datalogger for reading voltage output (single channel) via ADS1115, then send to ThingSpeak channel
+Microcontroller: ESP32 
+Analogue to Digital module: ADS1115
 
-
+Written by Maria Lok-Yee Li 
+Version: 23/11/2025
 */
 
 // Include libraries
